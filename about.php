@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-$pageTitle = 'Basic PHP Webpage';
+$pageTitle = 'About Page';
 ?>
 <head>
   <meta charset="UTF-8">
